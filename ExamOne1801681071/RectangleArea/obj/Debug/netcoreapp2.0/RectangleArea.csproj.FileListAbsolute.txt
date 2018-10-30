@@ -1,0 +1,11 @@
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.deps.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.dll
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\bin\Debug\netcoreapp2.0\RectangleArea.pdb
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.csprojAssemblyReference.cache
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.AssemblyInfo.cs
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.dll
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\RectangleArea\obj\Debug\netcoreapp2.0\RectangleArea.pdb

@@ -1,0 +1,10 @@
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\obj\Debug\netcoreapp2.0\AverageNumber.csproj.CoreCompileInputs.cache
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\obj\Debug\netcoreapp2.0\AverageNumber.AssemblyInfoInputs.cache
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\obj\Debug\netcoreapp2.0\AverageNumber.AssemblyInfo.cs
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\bin\Debug\netcoreapp2.0\AverageNumber.deps.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\bin\Debug\netcoreapp2.0\AverageNumber.runtimeconfig.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\bin\Debug\netcoreapp2.0\AverageNumber.runtimeconfig.dev.json
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\bin\Debug\netcoreapp2.0\AverageNumber.dll
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\bin\Debug\netcoreapp2.0\AverageNumber.pdb
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\obj\Debug\netcoreapp2.0\AverageNumber.dll
+C:\Users\fmi\Desktop\PU-IntroCsharp-1801681071-E1\ExamOne1801681071\AverageNumber\obj\Debug\netcoreapp2.0\AverageNumber.pdb
